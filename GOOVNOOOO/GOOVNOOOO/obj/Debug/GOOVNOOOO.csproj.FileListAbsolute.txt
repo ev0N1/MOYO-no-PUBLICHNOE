@@ -1,0 +1,15 @@
+C:\Users\iluxa\source\repos\GOOVNOOOO\GOOVNOOOO\bin\Debug\Database1.mdf
+C:\Users\iluxa\source\repos\GOOVNOOOO\GOOVNOOOO\bin\Debug\Database1_log.ldf
+C:\Users\iluxa\source\repos\GOOVNOOOO\GOOVNOOOO\bin\Debug\GOOVNOOOO.exe.config
+C:\Users\iluxa\source\repos\GOOVNOOOO\GOOVNOOOO\bin\Debug\GOOVNOOOO.exe
+C:\Users\iluxa\source\repos\GOOVNOOOO\GOOVNOOOO\bin\Debug\GOOVNOOOO.pdb
+C:\Users\iluxa\source\repos\GOOVNOOOO\GOOVNOOOO\obj\Debug\GOOVNOOOO.csproj.AssemblyReference.cache
+C:\Users\iluxa\source\repos\GOOVNOOOO\GOOVNOOOO\obj\Debug\GOOVNOOOO.Form1.resources
+C:\Users\iluxa\source\repos\GOOVNOOOO\GOOVNOOOO\obj\Debug\GOOVNOOOO.Properties.Resources.resources
+C:\Users\iluxa\source\repos\GOOVNOOOO\GOOVNOOOO\obj\Debug\GOOVNOOOO.csproj.GenerateResource.cache
+C:\Users\iluxa\source\repos\GOOVNOOOO\GOOVNOOOO\obj\Debug\GOOVNOOOO.csproj.CoreCompileInputs.cache
+C:\Users\iluxa\source\repos\GOOVNOOOO\GOOVNOOOO\obj\Debug\GOOVNOOOO.exe
+C:\Users\iluxa\source\repos\GOOVNOOOO\GOOVNOOOO\obj\Debug\GOOVNOOOO.pdb
+C:\Users\iluxa\source\repos\GOOVNOOOO\GOOVNOOOO\obj\Debug\GOOVNOOOO.Form2.resources
+C:\Users\iluxa\source\repos\GOOVNOOOO\GOOVNOOOO\obj\Debug\GOOVNOOOO.UserForm.resources
+C:\Users\iluxa\source\repos\GOOVNOOOO\GOOVNOOOO\obj\Debug\GOOVNOOOO.Form3.resources
