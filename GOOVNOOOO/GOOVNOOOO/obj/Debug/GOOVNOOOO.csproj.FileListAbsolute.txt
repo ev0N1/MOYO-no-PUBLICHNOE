@@ -11,3 +11,5 @@ C:\Users\iluxa\source\repos\GOOVNOOOO\GOOVNOOOO\obj\Debug\GOOVNOOOO.csproj.CoreC
 C:\Users\iluxa\source\repos\GOOVNOOOO\GOOVNOOOO\obj\Debug\GOOVNOOOO.exe
 C:\Users\iluxa\source\repos\GOOVNOOOO\GOOVNOOOO\obj\Debug\GOOVNOOOO.pdb
 C:\Users\iluxa\source\repos\GOOVNOOOO\GOOVNOOOO\obj\Debug\GOOVNOOOO.Form2.resources
+C:\Users\iluxa\source\repos\GOOVNOOOO\GOOVNOOOO\obj\Debug\GOOVNOOOO.UserForm.resources
+C:\Users\iluxa\source\repos\GOOVNOOOO\GOOVNOOOO\obj\Debug\GOOVNOOOO.Form3.resources

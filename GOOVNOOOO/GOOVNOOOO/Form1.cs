@@ -30,13 +30,21 @@ namespace GOOVNOOOO
             string role = who(login, password);
             if (role == "Агент")
             {
-                MessageBox.Show("Вы агент");
-
+                Form3 agentForm = new Form3(login, role);
+                agentForm.Show();
+                this.Hide();
             }
             else if (role == "Пользователь")
             {
-                UserForm userForm = new UserForm();
+                UserForm userForm = new UserForm(login, role);
                 userForm.Show();
+                this.Hide();
+            }
+
+            else if (role == "Мастер")
+            {
+                Form3 agentForm = new Form3(login, role);
+                agentForm.Show();
                 this.Hide();
             }
             else if (role == null)
